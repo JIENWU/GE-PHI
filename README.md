@@ -2,7 +2,7 @@
 
 [Image text]([https://github.com/JIENWU/GE-PHI/blob/main/GE-PHI%20workflow.tif）
 
-### ESM-2 model
+## ESM-2 model
 
 ### Install Python dependencies (specific versions are in environment.yml)
 python3 -m pip install numpy pandas matplotlib torch
