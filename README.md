@@ -1,5 +1,7 @@
 # GE-PHI：A Machine Learning Model for Phage-Host Interaction Prediction Combining Hyperbolic Poincaré Graph Embeddings with a Large-Scale Protein Language Technique 
 
+  ![Image text]( 这里是你的图片链接)
+
 ### ESM-2 model
 
 ### Install Python dependencies (specific versions are in environment.yml)
