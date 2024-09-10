@@ -184,10 +184,6 @@ Matrix multiply the embedding vector with the linear coefficients, add the inter
 ```
 conservation = np.clip(np.matmul(sequence_embedding, coef) + intercept, 0, 1)
 ```
-### The human-virus and human-bacteria interactions datasets are colleced from:  
-IntAct: https://www.ebi.ac.uk/intact/  
-VirHostNet: https://virhostnet.prabi.fr/  
-HPIDB: https://hpidb.igbb.msstate.edu/ 
 
 ### The phage-host interactions dataset is download from:  
 Millard Lab: https://millardlab.org  
