@@ -195,7 +195,7 @@ UniProt: https://www.uniprot.org/
 
     @Article{
       Title   = {GE-PHI：A Machine Learning Model for Phage-Host Interaction Prediction Combining Hyperbolic Poincaré Graph Embeddings with a Large-Scale Protein Language Technique},
-      Author  = {Jie Pan, Guangming Zhang, Yong Yang, Wenli Yang, Ning Mao, Zhuhong You, Jie Feng, Shiwei Wang, and Yanmei Sun},
+      Author  = {Jie Pan, Rui Wang, Zhuhong You, Qinghua Huang, Jie Feng, Yuechao Li, Yanmei Sun， and Shiwei Wang1},
       Journal = {*****},
       Volume  = {*****},
       Number  = {*****},
